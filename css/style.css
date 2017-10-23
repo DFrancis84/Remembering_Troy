@@ -1,0 +1,26 @@
+body { 
+    background: url("../img/nashville_batman1.jpg");
+    background-repeat: no-repeat;
+    margin: 1%;
+    background-position: center; 
+    background-size: cover;
+}
+    
+h1, h3, h5 {
+    color: #edda74;
+    text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
+}
+
+#about {
+    color: #edda74;
+    font-weight: bold;
+    padding-top: 5%;
+    font-size: 115%;
+    text-align: center;
+    text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
+}
+#troy_gentry {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
